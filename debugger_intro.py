@@ -1,5 +1,6 @@
 # this function has no errors
 # we'll use this to become familiar with the debugger tool
+# TODO add breakpoint, run with debugger
 def prob1():
     num1 = 5
     num2 = 10
