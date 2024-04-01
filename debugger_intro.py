@@ -30,6 +30,6 @@ def prob3():
         else:
             print("negative")    
 
-# prob1()
-prob2()
+prob1()
+# prob2()
 # prob3()
