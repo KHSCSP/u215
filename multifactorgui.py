@@ -33,7 +33,7 @@ class MultiFactorAuth(tk.Tk):
         tk.Tk.__init__(self)
 
         self.set_authorization()
-        print (self.username, self.password)
+        # print(self.username, self.password)
         
         # create authorization frame and place widgets in it
         self.frame_login = tk.Frame(self)
