@@ -5,6 +5,12 @@ import multifactorgui as mfg
 # create a multi-factor interface to a restircted app
 my_auth = mfg.MultiFactorAuth()
 
+
+# TODO
+# in the *last* part of the activity you will implement username and password rules here
+
+
+
 my_auth.set_authorization("administrator3","1StrongPassword4CSP")
 # confirm authorization info
 auth_info = my_auth.get_authorization()
